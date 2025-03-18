@@ -1,0 +1,6 @@
+. Input marks from user :
+  If marks are greater than 90 than display "Distinction"
+  If marks are in between 75 to 90 than display "First Class"
+  If marks are in between 60 to 75 than display "Second Class"
+  If marks are in bw=etween 35 to 60 than display "Pass"
+  If marks are below 35 than display "fail"
