@@ -1,0 +1,1 @@
+. Input a number from user and display wether number is even or odd..
