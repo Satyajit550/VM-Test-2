@@ -1,0 +1,2 @@
+. Input day from user and display wether it is working day(mon-fir) or holiday(sat-sun).
+
